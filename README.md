@@ -2,7 +2,17 @@
 Eos system
 ==========
 
-To receive the packages of Eos, please write to fadouaghourabi@gmail.com. We would like to keep a list of Eos users and, hopefully, collect their feedback for future revisions.
+This tutorial explain how to use the Eos system to solve origami geometrical problem. 
+To receive the packages of Eos, please write to fadouaghourabi@gmail.com.
+
+Reference about Eos system:
+1. Tutorial.nb
+
+2. Tetsuo Ida, An Introduction to Computational Origami, Springer 2020
+https://www.springer.com/gp/book/9783319591889
+
+3. Conference/Journal publications
+https://dblp.org/pid/i/TetsuoIda.html
 
 Requirements
 ============
